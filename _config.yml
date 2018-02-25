@@ -14,7 +14,7 @@ baseurl:          '/hyde/'
 
 author:
   name:           'Mark Otto'
-  url:            https://twitter.com/dpk294
+  url:            https://twitter.com/mdo
 
 paginate:         5
 

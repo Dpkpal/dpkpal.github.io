@@ -10,7 +10,7 @@ title:            Deepak Paliwal
 tagline:          Computer Science Engineer
 description:      A full Stack Developer
 url:              http://hyde.getpoole.com
-baseurl:          'hyde'
+baseurl:          '/hyde/'
 
 author:
   name:           'Mark Otto'
